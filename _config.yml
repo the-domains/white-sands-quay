@@ -1,0 +1,23 @@
+name: White Sands Quay
+favicon: null
+layout_spectrum: 0.9366018264554441
+typography_spectrum: 0.7075507494155318
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7776090083643794
+  lightness: 0.03202580218203366
+  saturation: 0.2133990963920951
+  rhythmicContrast: 0.8725741351954639
+purpose: []
